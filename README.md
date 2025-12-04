@@ -23,14 +23,12 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=artQT&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
-    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artQT&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
-  </a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=artQT&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=artQT&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
 <br>
 
 <div align="right">
-  <img src="https://upload.wikimedia.org/wikipedia/en/2/2d/SSU_Kirby_artwork.png" width="150" alt="Kirby">
+  <img src="https://www.pngall.com/wp-content/uploads/2016/05/Kirby.png" width="150" alt="Kirby">
 </div>
